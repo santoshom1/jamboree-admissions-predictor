@@ -3,8 +3,8 @@
 This project aims to predict a student's chance of admission to a graduate program based on various academic and personal profile factors. The analysis involves data exploration, visualization, and the implementation of two regression models: Linear Regression and Polynomial Regression. The goal is to identify key factors influencing admissions and to build a model that accurately predicts admission chances.
 
 The analysis is performed on the "Jamboree Admission" dataset.
-### 📂 Dataset Information
-File:
+
+## 📂 dataset - [link](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/839/original/Jamboree_Admission.csv)
 
 - Serial No. – Unique ID for each record
 
