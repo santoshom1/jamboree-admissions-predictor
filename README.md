@@ -133,5 +133,5 @@ While the models are effective, the violation of the normality assumption for re
 
 
 - Click here to view the full case study notebook:
-📘 [View Notebook]()
+📘 [View Notebook](https://github.com/santoshom1/jamboree-admissions-predictor/blob/20b6b87320d058132d85dcc5315040c4be48b299/jamboree.ipynb)
 - Open it directly in Colab:  [▶️ Open in Colab (right-click to open in new tab)](https://colab.research.google.com/drive/1b4z0bp-M_jZvXYDLXlkFNwONsxZbi8__?usp=sharing)
